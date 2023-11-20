@@ -1,6 +1,6 @@
 # Embedded System Design Project
 
-## Overview
+## Overview 
 This repository contains the source code and documentation for an embedded system project developed as part of a master's degree program. The project focuses on designing applications for ARM Cortex-M microcontrollers, specifically targeting the Nucleo F756ZG development board.
 
 ## Project Description
