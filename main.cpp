@@ -11,7 +11,7 @@
 #define BLINKING_TIME_GAS_AND_OVER_TEMP_ALARM  100
 #define NUMBER_OF_AVG_SAMPLES                   20
 #define OVER_TEMP_LEVEL                         50
-#define TIME_INCREMENT_MS                       10
+#define TIME_INCREMENT_MS                       2
 
 //=====[Declaration and initialization of public global objects]===============
 
